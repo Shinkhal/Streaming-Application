@@ -1,10 +1,6 @@
 # 🎵 Streaming-Application – Music Streaming Web App
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Shinkhal/Streaming-Application?color=blue)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Shinkhal/Streaming-Application)
-![GitHub issues](https://img.shields.io/github/issues/Shinkhal/Streaming-Application)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/Shinkhal/Streaming-Application)
-![License](https://img.shields.io/github/license/Shinkhal/Streaming-Application)
 ![Made with React](https://img.shields.io/badge/React-18.2.0-blue?logo=react)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-3.3.0-38B2AC?logo=tailwindcss)
 
